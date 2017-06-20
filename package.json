@@ -1,0 +1,26 @@
+{
+  "name": "ng-fly-mobile",
+  "version": "1.0.0",
+  "description": "适用于angular的组件库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangpengfeido/ng-fly-mobile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangpengfeido/ng-fly-mobile/issues"
+  },
+  "homepage": "https://github.com/wangpengfeido/ng-fly-mobile#readme",
+  "devDependencies": {
+    "webpack": "^3.0.0"
+  },
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-animate": "^1.6.4"
+  }
+}
